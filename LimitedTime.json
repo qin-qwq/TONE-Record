@@ -1,16 +1,16 @@
 {
-    "timeStart": {
-      "limitedYear": 2026,
-      "limitedMonth": 10,
-      "limitedDay": 1,
-      "limitedHour": 7,
-      "limitedMinute": 0
-    },
-    "timeEnd": {
-      "limitedYear": 2026,
-      "limitedMonth": 10,
-      "limitedDay": 2,
-      "limitedHour": 7,
-      "limitedMinute": 0
-    }
+  "timeStart": {
+    "limitedYear": 2026,
+    "limitedMonth": 10,
+    "limitedDay": 1,
+    "limitedHour": 0,
+    "limitedMinute": 0
+  },
+  "timeEnd": {
+    "limitedYear": 2026,
+    "limitedMonth": 10,
+    "limitedDay": 2,
+    "limitedHour": 0,
+    "limitedMinute": 0
+  }
 }
