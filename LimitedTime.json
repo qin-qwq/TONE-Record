@@ -2,14 +2,14 @@
   "timeStart": {
     "limitedYear": 2026,
     "limitedMonth": 10,
-    "limitedDay": 1,
+    "limitedDay": 31,
     "limitedHour": 0,
     "limitedMinute": 0
   },
   "timeEnd": {
     "limitedYear": 2026,
-    "limitedMonth": 10,
-    "limitedDay": 2,
+    "limitedMonth": 11,
+    "limitedDay": 1,
     "limitedHour": 0,
     "limitedMinute": 0
   }
